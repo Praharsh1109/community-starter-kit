@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER : the description is for the interaction of user from the user .so this beneficial for user.
+DESCRIPTION PLACEHOLDER : A GitHub App built with probot that celebrates new user activity within your repository.
 
 ## What it does
 
