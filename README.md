@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+DESCRIPTION PLACEHOLDER : the description is for the interaction of user from the user .so this beneficial for user.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+FEATURES PLACEHOLDER:it changes according to your project so you can edit where you want.
 
 ## Getting started
 
